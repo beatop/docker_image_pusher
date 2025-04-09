@@ -1,1 +1,1 @@
-clickhouse:25.2
+stilliard/pure-ftpd:hardened
