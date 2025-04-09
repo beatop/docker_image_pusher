@@ -1,1 +1,1 @@
-nginx:1.23.0
+clickhouse:25.2
