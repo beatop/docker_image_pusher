@@ -1,1 +1,1 @@
-stilliard/pure-ftpd:hardened
+stilliard/pure-ftpd:wheezy-1.0.36
