@@ -1,1 +1,1 @@
-stilliard/pure-ftpd:wheezy-1.0.36
+stilliard/pure-ftpd:latest
